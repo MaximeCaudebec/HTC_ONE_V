@@ -1,4 +1,4 @@
-HTC_ONE_V
+IOSmooth ROM
 =========
 
 This repository is just for optimization tweaks that have been appplied to RythmicROM, as well as our own. I am working
