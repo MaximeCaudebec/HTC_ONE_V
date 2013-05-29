@@ -1,13 +1,15 @@
 HTC_ONE_V
 =========
 
-PrimoC core data/kernel source CM10.1
+This repository is just for optimization tweaks that have been appplied to RythmicROM, as well as our own. I am working
+with the latest development called "CyanPrimo" our goal is to strip down everything unecessery to just leave pure andrioid 
+jellybean. We are customizing I/O schedulers and build.prop as well as change some busybox settings to allow optimal memory performance.
 
-Current goal is to optimize build.prop and modify CPU governors to operate with mem bandwith. this git is under construction
-should be complete in a couple of days. We will be forking some core files to this acccount as well as working closely with 
-our most current kernel projects. 
+------------
+5/29/13
+Optimized build.prop
+using Linario Kernel (for now)
+ROM Build starts :)
 
-*Note the latest RUU is incompatible with our kernel
-
-For more information on our projects please go to XDA for now @iOSecure (http://forum.xda-developers.com/)
--Contributer to RythmicROM PrimoC SickKernelv0.6+
+5/28/13
+Intial Commit
