@@ -8,10 +8,10 @@ jellybean as a result you are left with a clean,fast ROM. We are customizing I/O
 Of course you can find me on XDA!
 
 5/29/13
-Implementing CrossBreeder should be ready by next build 
-Optimized build.prop
-using Linario Kernel (for now)
-ROM Build starts :)
+-Implementing CrossBreeder should be ready by next build 
+-Optimized build.prop
+-using Linario Kernel (for now)
+-ROM Build starts :)
 
 5/28/13
 Intial Commit
