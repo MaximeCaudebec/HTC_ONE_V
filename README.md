@@ -9,8 +9,11 @@ Of course you can find me on XDA!
 
 5/29/13
 -Implementing CrossBreeder should be ready by next build 
+
 -Optimized build.prop
+
 -using Linario Kernel (for now)
+
 -ROM Build starts :)
 
 5/28/13
