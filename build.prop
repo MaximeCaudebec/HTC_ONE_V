@@ -1,0 +1,51 @@
+#
+# Modded Tweaks (Build.prop Super Tweaks)
+#
+
+# Data Tweaks
+ro.ril.hsxpa=3
+ro.ril.gprsclass=12
+ro.ril.hep=1
+ro.ril.enable.dtm=1
+ro.ril.hsdpa.category=28
+ro.ril.enable.a53=1
+ro.ril.enable.3g.prefix=1
+ro.ril.htcmaskw1.bitmask=4294967295
+ro.ril.htcmaskw1=14449
+ro.ril.hsupa.category=9
+
+# Powersave Tweaks
+ro.ril.disable.power.collapse=1
+pm.sleep_mode=1
+wifi.supplicant_scan_interval=150
+
+# UI Tweaks
+windowsmgr.max_events_per_sec=150
+debug.sf.hw=1
+video.accelerate.hw=1
+
+# Media Tweaks
+ro.media.enc.jpeg.quality=100
+ro.media.dec.jpeg.memcap=8000000
+ro.media.enc.hprof.vid.bps=8000000
+
+media.stagefright.enable-player=true
+media.stagefright.enable-meta=true
+media.stagefright.enable-scan=true
+media.stagefright.enable-http=true
+
+# Boot Tweaks
+persist.sys.shutdown.mode=hibernate
+
+# System Tweaks
+ro.ext4fs=1
+
+#
+# Miscellaneous Tweaks
+#
+
+# Change the Dalvik VM heap size
+dalvik.vm.heapsize=64m
+
+# Dial Faster
+ro.telephony.call_ring.delay=800
