@@ -1,0 +1,14 @@
+CROSSBREEDER (http://forum.xda-developers.com/showthread.php?t=2113150)
+16 Bit Transperancy
+KSM
+Disable all Vibrate Sounds and Vibrate Feedback in Keyboard
+Set Animations to x0 or x0.5
+OverClock to 1.4Ghz or 1.2Ghz and Set to SmartAssv2/Lionheart and the SIO to Deadline
+Remove cLock and Music Widget if not using them
+Set Launcher to 3 Screens instead of 5 (unless you use 5)
+
+About crossbreeder and HTC One V overclocking:
+crossbreeders optimally performance with a Deadline SIO and SmartAssV2 CPU governor, the CPU max clock rate as stated on 
+qualcomms website for this specific device is 1.4Ghz, a few devices from samsung and HTC with the same processor are
+overclocked to 1.5Ghz but 1Ghz-1.4Ghz is recommended. If you live in a very warm enviornment its recommended you do not OC
+due to temperature issues/throttling.
